@@ -31,7 +31,7 @@ C. Do a combination of reading and watching (not less than three hours total). T
        * Halt and Catch Fire
        * Revolution OS
        * The Code
-       * Computer Programming in `Five Minutes <https://www.youtube.com/watch?v=UScm9avQM1Y\>`__
+       * `Computer Programming in Five Minutes <https://www.youtube.com/watch?v=UScm9avQM1Y>`__
 
    C. Articles on Computer Programming
 
@@ -42,7 +42,7 @@ C. Do a combination of reading and watching (not less than three hours total). T
 
 .. admonition:: Fun fact: why is this Nova module called "Hello World"?
 
-   Answer: because writing a code that outputs "Hellow World" is usually the first thing any budding programmer starts with!
+   Answer: because writing a code that outputs "Hello World" is usually the first thing any budding programmer starts with!
 	 
    Example, in Python:
 
