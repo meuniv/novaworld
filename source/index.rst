@@ -22,10 +22,11 @@ Welcome to Nova -- Hello World
    requirement8
    contact
    
-.. note::
-   Computer programming is a way of giving computers instructions about what they should do next. These instructions are known as *code*, and computer programmers write code to solve problems or perform a task.
+.. note:: What is this Nova module all about?
+	  
+   **Computer programming** is a way of giving computers instructions about what they should do next. These instructions are known as *code*, and computer programmers write code to solve problems or perform a task.
 
-   **The end goal is to create something**: that could mean anything from a web page, or a piece of software, or even just a pretty picture. That’s why computer programming is often described as a mix between art and science; it’s technical and analytical, yet creative at the same time. (text adapted from `What is Computer Programming?  <https://news.codecademy.com/what-is-computer-programming/>`__). Check out the link to learn more!
+   **The end goal is to create something**: that could mean anything from a web page, or a piece of software, or even just a pretty picture. That’s why computer programming is often described as a mix between art and science; it’s technical and analytical, yet creative at the same time. This text was adapted from `What is Computer Programming?  <https://news.codecademy.com/what-is-computer-programming/>`__. Check out the link to learn more!
 
    .. figure:: _images/programming.jpg
       :width: 400px

@@ -11,7 +11,7 @@ Requirement #5: Writing another program
       F. A computer game of your choosing which uses interactive characters, requires skill and reports a winner or a loser. (See `Game Lab <https://code.org/educate/gamelab>`_ for example)
       G. Any other computer program agreed on by you and your counselor that uses both variables and control flow instructions.
 
-.. tip:: What is a random number? (answers adapted from `random.org <https://www.random.org/randomness/>`_)
+.. tip:: **What is a random number?** (answers adapted from `random.org <https://www.random.org/randomness/>`_)
 	 
 	 With the advent of computers, programmers recognized the need for a means of introducing randomness into a computer program. However, surprising as it may seem, it is difficult to get a computer to do something by chance. A computer follows its instructions blindly and is therefore completely predictable. (A computer that doesn't follow its instructions in this manner is broken.) There are two main approaches to generating random numbers using a computer: Pseudo-Random Number Generators (PRNGs) and True Random Number Generators (TRNGs). The approaches have quite different characteristics and each has its pros and cons.
 

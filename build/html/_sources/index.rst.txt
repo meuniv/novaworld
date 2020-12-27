@@ -34,3 +34,5 @@ Welcome to Nova -- Hello World
       :figclass: align-center
    
       A programmer working on developing a computer code (Image obtained from https://www.gcu.edu/blog/engineering-technology/computer-programming-importance ). Computer programming has a crucial role in our world. You would not be reading this Nova documentation without it. Without computer programming you would not be able to use your cell phone, gaming console, or smart TV. Learning the fundamentals of programming will give you a competitive edge in this technology-driven world. 
+
+

@@ -3,12 +3,12 @@ Requirement #3: Basic Concepts
 
 .. tip:: Getting started!
 
-	 Just like for any language, you need to learn some basic vocabulary before attempting to write sentences! This is the same for computer programming. Some teachers (including me!) believe in pushing this metaphor further by adopting the following procedure:
-	 (1) Learn some basic vocabulary so you can understand simple commands
-	 (2) Learn by mimiking (that is: study a simple piece of code and modify it)
-	 (3) Learn more commands and start writing your own codes!
+	 Just like for any language, you need to learn some basic vocabulary before attempting to write sentences! This is the same for computer programming. Some teachers (including me) believe in pushing this metaphor further by adopting the following procedure:
+	 (1) Learn some basic vocabulary so you can start understanding some simple commands
+	 (2) Learn by mimicking (that is: study a simple piece of existing code and modify it)
+	 (3) Learn more commands and start writing your own codes
 
-	 When I teach computational sciences, I often tell my students: a good programmer is not a person who writes good codes, it is a person who can edit their codes to make them work! So, be patient and do not depair if things don't work out the way they are supposed to!
+	 When I teach computational sciences, I often tell my students: a good programmer is not a person who writes good codes! Rather,  it is a person who can edit their codes to make them work! So, be patient and do not depair if things don't work out the way they are supposed to at first!
 	     
 :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}`  Explore different concepts in computer programming. Discuss these programming concepts with your counselor:
       
@@ -66,6 +66,6 @@ H. What is a Universal Resource Locator (URL) and where is it used??
 	     :alt: alternate text
 	     :figclass: align-center
    
-	     Programming Coding Key Vocabulary Literacy and Definitions Poster  Image obtained from the https://images.app.goo.gl/cxsi1Ne6SJE5iWgm6.
+	     Programming Coding Key Vocabulary Literacy and Definitions Poster. This  image obtained from the https://images.app.goo.gl/cxsi1Ne6SJE5iWgm6.
 
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!

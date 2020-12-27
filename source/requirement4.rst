@@ -5,7 +5,7 @@ Requirement #4: Learning to program
 .. note:: You can easily learn the basic of programming using free online resources!
 	 For example,
 
-	 * Kahn academy: a terrific `resource <https://www.khanacademy.org/computing/computer-programming>`__ to learn basic programming
+	 * Kahn academy is  a terrific `resource <https://www.khanacademy.org/computing/computer-programming>`__ to learn basic programming
 	 * Free learning platform offered by `codeacademy <https://www.codecademy.com>`_.
 
 
@@ -61,7 +61,7 @@ Requirement #4: Learning to program
 	    * Getting a web application up-and-running takes less time than in other frameworks.
 	    * However, a downside of Ruby is that is not scalable (that is: it has trouble handling large computing tasks even though it works great for smaller tasks)
 			
-	 This tip is adapted from an article read on `stackify.com <https://stackify.com/popular-programming-languages-2018/?utm_source=codecademyblog>`__. Go to the website to learn more!
+	 This tip is adapted from an article posted on `stackify.com <https://stackify.com/popular-programming-languages-2018/?utm_source=codecademyblog>`__. Go to the website to learn more!
 
 	
        .. figure:: _images/languages2019.png
@@ -69,6 +69,6 @@ Requirement #4: Learning to program
 	  :align: center
 	  :alt: alternate text
 
-	  10 most popular languages in 2019 and the change in popularity compare to the previous year. The rating is called *The Tiobe Index*: it  works like market share; the percentage is the amount of “market share” a language holds, according to `stackify.com <https://stackify.com/popular-programming-languages-2018/?utm_source=codecademyblog>`__. 
+	  10 most popular languages in 2019 and the change in popularity compared to the previous year. The rating is called *The Tiobe Index*: it  works like market share; the percentage is the amount of “market share” a language holds, according to `stackify.com <https://stackify.com/popular-programming-languages-2018/?utm_source=codecademyblog>`__. 
 
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!

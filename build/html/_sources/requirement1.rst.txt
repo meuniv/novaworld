@@ -40,15 +40,20 @@ C. Do a combination of reading and watching (not less than three hours total). T
       * Computers - http://www.explainthatstuff.com/howcomputerswork.html
       * Introduction to Computers and Programming - www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf
 
+.. admonition:: Fun fact: why is this Nova module called "Hello World"?
 
-.. Note:: New transportation technology is invented all the time as humans are constantly driven to explore further and further, pushing the boundaries of what they reach!
+   Answer: because writing a code that output "Hellow World" is usually the first thing any budding programmer starts with!
+	 
+   Example, in Python:
 
-	       
-	       .. figure:: _images/FlyingTaxi.png
-		  :width: 400px
-		  :align: center
-		  :alt: alternate text
-   
-		  Example of futuristic transport technology: the flying taxi. Image obtained from `NewScientist GeoSpatialWorld <https://www.geospatialworld.net/blogs/5-futuristic-transportation-technologies/>`__. Check out the website for a description of a list of fascinating modern and future transport technology. 
+   .. code:: python
+		   
+      print ("Hello World\n")
+
+   And the output is:
+
+   .. code::
+
+      Hello World
    
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
