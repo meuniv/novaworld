@@ -18,7 +18,7 @@ C. Do a combination of reading and watching (not less than three hours total). T
 .. tip::
    A. Suggested reading and watching material might include the following.
       
-      * What is Programming? - https://www. khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro
+      * `What is Programming? <https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro>`__
       * https://www.youtube.com/watch?v=THOEQ5soVpY
       * https://www.youtube.com/watch?v=Y4ZIA1A54ww
       * https://www.youtube.com/watch?v=N7ZmPYaXoic
@@ -31,18 +31,18 @@ C. Do a combination of reading and watching (not less than three hours total). T
        * Halt and Catch Fire
        * Revolution OS
        * The Code
-       * Computer Programming in Five Minutes - https://www.youtube.com/watch?v=UScm9avQM1Y\
+       * Computer Programming in `Five Minutes <https://www.youtube.com/watch?v=UScm9avQM1Y\>`__
 
    C. Articles on Computer Programming
 
-      * What is Computer programming - http://guyhaas.com/bfoit/itp/Programming.html
-      * Computer Programming - https://en.wikipedia.org/wiki/Computer_programming
-      * Computers - http://www.explainthatstuff.com/howcomputerswork.html
-      * Introduction to Computers and Programming - www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf
+      * `What is Computer programming <http://guyhaas.com/bfoit/itp/Programming.html>`__
+      * `Computer Programming <https://en.wikipedia.org/wiki/Computer_programming>`__
+      * `Computers <http://www.explainthatstuff.com/howcomputerswork.html>`__
+      * `Introduction to Computers and Programming <www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf>`__
 
 .. admonition:: Fun fact: why is this Nova module called "Hello World"?
 
-   Answer: because writing a code that output "Hellow World" is usually the first thing any budding programmer starts with!
+   Answer: because writing a code that outputs "Hellow World" is usually the first thing any budding programmer starts with!
 	 
    Example, in Python:
 
@@ -50,7 +50,7 @@ C. Do a combination of reading and watching (not less than three hours total). T
 		   
       print ("Hello World\n")
 
-   And the output is:
+   And the output on the screen is:
 
    .. code::
 
