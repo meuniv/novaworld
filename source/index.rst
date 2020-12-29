@@ -20,6 +20,7 @@ Welcome to Nova -- Hello World
    requirement6
    requirement7
    requirement8
+   Others
    contact
    
 .. note:: What is this Nova module all about?
